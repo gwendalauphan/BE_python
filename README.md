@@ -57,5 +57,7 @@ Pour faire le lien avec la rotation de la Terre en utilisant un pendule simulé 
 
 
 
+## Repos source
+Base: https://github.com/gwendalauphan/BE_python.git
 
 
